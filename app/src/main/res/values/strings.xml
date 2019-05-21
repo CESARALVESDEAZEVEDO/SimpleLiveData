@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TesteLiveData</string>
+    <string name="texto_temporario">Texto Temporário</string>
+</resources>
